@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "name": "강서구",
+    "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/logo_gangseo.jpg",
+    "spots": [
+      {
+        "id": 1,
+        "districtId": 1,
+        "name": "허준박물관",
+        "description": "동의보감을 쓴 허준의 업적을 기리는 한r의학 박물관.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/heojun.jpg"
+      },
+      {
+        "id": 2,
+        "districtId": 1,
+        "name": "서울식물원",
+        "description": "마곡에 있는 대형 식물원과 공원. 온실이 유명하다.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/botanic.jpg"
+      }
+
+    ]
+  },
+  {
+    "id": 2,
+    "name": "양천구",
+    "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/logo_yangcheon.png",
+    "spots": [
+      {"id": 3,
+        "districtId": 2,
+        "name": "현대백화점 목동점",
+        "description": "목동역 근처의 대형 백화점. 쇼핑과 식당가가 모여 있다.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/hyundai_mokdong.jpg"
+      },
+      {
+        "id": 4,
+        "districtId": 2,
+        "name": "파리공원",
+        "description": "한불 수교 100주년을 기념해 만든 목동의 공원.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/paris_park.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "용산구",
+    "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/logo_yongsan.jpg",
+    "spots": [
+      {
+        "id": 5,
+        "districtId": 3,
+        "name": "숙명여자대학교",
+        "description":"청파동에 있는 여자대학교. 봄이면 캠퍼스 꽃길이 예쁘다." ,
+        "img_src":"https://raw.githubusercontent.com/spartauser202402/my-city/main/smwu.jpg"
+      },
+      {
+        "id": 6,
+        "districtId": 3,
+        "name": "남산서울타워",
+        "description":"남산 정상의 전망 타워. 서울 야경 명소." ,
+        "img_src":"https://raw.githubusercontent.com/spartauser202402/my-city/main/namsan_tower.jpg"
+      }
+    ]
+
+  },
+  {
+    "id": 4,
+    "name": "마포구",
+    "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/logo_mapo.png",
+    "spots": [
+      {
+        "id": 7,
+        "districtId": 4,
+        "name":"망원한강공원",
+        "description": "한강을 따라 산책과 피크닉을 즐기기 좋은 공원.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/mangwon.jpg"
+      },
+      {
+        "id": 8,
+        "districtId": 4,
+        "name": "홍대 거리",
+        "description": "버스킹과 카페, 클럽이 모여 있는 젊음의 거리.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/hongdae.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "강남구",
+    "img_src":"https://raw.githubusercontent.com/spartauser202402/my-city/main/logo_gangnam.png",
+    "spots": [
+      {
+        "id": 9,
+        "districtId": 5,
+        "name": "코엑스",
+        "description":"별마당 도서관과 아쿠아리움이 있는 대형 복합 공간.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/coex.jpg"
+      },
+      {
+        "id": 10,
+        "districtId": 5,
+        "name": "봉은사",
+        "description": "코엑스 맞은편에 있는 천년 고찰. 도심 속 휴식 공간.",
+        "img_src": "https://raw.githubusercontent.com/spartauser202402/my-city/main/bongeunsa.jpg"
+      }
+    ]
+  }
+
+]
